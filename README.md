@@ -41,7 +41,7 @@ For use in python
 
 From https://github.com/BVLC/caffe/tree/master/models/bvlc_reference_caffenet
 
-    wget wget dl.caffe.berkeleyvision.org/bvlc_reference_caffenet.caffemodel
+    wget dl.caffe.berkeleyvision.org/bvlc_reference_caffenet.caffemodel
 
 ## Ubuntu (< 17.04)
 
