@@ -1,7 +1,7 @@
 #!/bin/bash
 
-export CAFFE_ROOT=/home/$(USER)/Idea/env/caffe
-export PROTO_ROOT=/home/$(USER)/Idea/env/protobuf
+export CAFFE_ROOT=/home/$USER/Idea/env/caffe
+export PROTO_ROOT=/home/$USER/Idea/env/protobuf
 export APP_FOLDER=$(pwd)
 
 # Format data
